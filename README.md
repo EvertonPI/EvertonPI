@@ -61,7 +61,7 @@ information Technology.
   <img alt="Git" width="10%" src="https://raw.githubusercontent.com/evertonshow/evertonshow/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
-  <img  src="https://github.com/EvertonPI/EvertonPI/blob/main/mysql.gif" alt="mysql" width="10%" />
+  <img  src="https://github.com/EvertonPI/EvertonPI/blob/main/mysql.gif" alt="mysql"  />
   </span>
  
   <br />
